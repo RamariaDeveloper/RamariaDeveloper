@@ -70,6 +70,16 @@ Like My Work?
 </ul>
 </details>
 
+<details>
+  <summary><b>⚡ Movie Application using Jetpack Compose</b></summary>
+
+  <br/>
+<ul>
+  	    <li><b>Status:</b> In Progress </li>
+	    ████▒▒▒▒▒ 40%
+</ul>
+</details>
+
 #
 
 <div align="center">
