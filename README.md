@@ -18,9 +18,6 @@ Feel free to connect with me [here](https://www.linkedin.com/in/immaryrachel/) f
 
 Joined Github **8** years ago, this is my second account here.
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/immaryrachel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="350" width="350" alt="" src="https://github.com/RamariaDeveloper/ImagePickerJava/assets/142702495/285029ba-55c1-44ec-aee4-c191e8c84124" />
 
