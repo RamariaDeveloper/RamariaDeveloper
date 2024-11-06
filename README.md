@@ -55,28 +55,6 @@ Joined Github **8** years ago, this is my second account here.
 <a href="https://web.dio.me/track/formacao-flutter-specialist" target="_blank"><img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/0053738f-5e54-4fe5-bf24-ae07c4d3b933" alt="Flutter" height="100" width="100"></a>
 
 
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Mobile Applications with Machine Learning</b></summary>
-
-  <br/>
-<ul>
-  	    <li><b>Status:</b> In Progress </li>
-	    ███████▒▒▒ 70%
-</ul>
-</details>
-
-<details>
-  <summary><b>⚡ Movie Application using Jetpack Compose</b></summary>
-
-  <br/>
-<ul>
-  	    <li><b>Status:</b> In Progress </li>
-	    ████▒▒▒▒▒ 40%
-</ul>
-</details>
-
 #
 
 <div align="center">
