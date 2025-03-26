@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp;❤️
 
-I am a Software Developer with 8 years of experience currently working as a Mobile Engineer 💻📱
+I am a Software Developer with 9 years of experience currently working as a Mobile Engineer 💻📱
 
 From a young age, my passion for technology has driven my career. I started my journey in the world of computing with Hardware and Computer Networks, and this solid foundation led me to specialize in Software Development, where I delved into various technologies and development methodologies.
 
