@@ -52,6 +52,7 @@ Joined Github **8** years ago, this is my second account here.
 <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank"><img src="https://github.com/RamariaDeveloper/ImagePickerJava/assets/142702495/9cfa43e6-fc8d-4d69-93d8-2a040f937ee7" alt="AWS" height="100" width="100"></a>
 <a href="https://docs.oracle.com/middleware/12211/wcs/java-ref/COM/FutureTense/Interfaces/ICS.html" target="_blank"><img src="https://github.com/RamariaDeveloper/ImagePickerJava/assets/142702495/23a80b4c-7750-46e3-b33c-30d8a6fc2338" alt="Java" height="100" width="100"></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" target="_blank"><img src="https://github.com/RamariaDeveloper/ImagePickerJava/assets/142702495/5f319a7d-f333-4474-a8ca-8a70775fc8f5" alt="Azure" height="100" width="100"></a>
+<a href="https://www.credly.com/badges/31fa6bbf-a49f-492b-b415-6bee6f9c1c07" target="_blank"><img src="https://github.com/user-attachments/assets/8eae785a-76dd-4522-a840-2280291e7a2e" alt="Azure Dev Solutions – O'Reilly" height="100" /></a>
 <a href="https://web.dio.me/track/formacao-flutter-specialist" target="_blank"><img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/0053738f-5e54-4fe5-bf24-ae07c4d3b933" alt="Flutter" height="100" width="100"></a>
 
 
